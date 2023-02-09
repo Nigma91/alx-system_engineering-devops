@@ -9,4 +9,5 @@ Directory for Shell basics scripts and how they work
 7. Betty in my first directory - moves the file betty from /tmp/ to /tmp/my_first_directory.
 8. Bye bye Betty - deletes the file betty in /tmp/my_first_directory.
 9. Bye bye My first directory - deletes the directory my_first_directory that is in the /tmp directory.
+10. Back to the future - changes the working directory to the previous one.
 
