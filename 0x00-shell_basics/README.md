@@ -5,4 +5,5 @@ Directory for Shell basics scripts and how they work
 3. The long format - display current directory contents in a long format
 4. Hidden files - display current directory contents, including hidden files (starting with .). Use the long format.
 5. I love numbers - display current directory contents. Long format, with user and group IDs displayed numerically, and hidden files (starting with .).
+6. Welcome - script that creates a directory named my_first_directory in the /tmp/ directory.
 
