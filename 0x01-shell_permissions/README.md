@@ -14,3 +14,7 @@ Shell permissions scripts
 11. Directories - adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
 12. More directories - creates a directory called my_dir with permissions 751 in the working directory.
 13. Change group - changes the group owner to school for the file hello. The file hello will be in the working directory.
+14. Owner and group - changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+15. Symbolic links - changes the owner and the group owner of _hello to vincent and staff respectively. The file _hello is in the working directory. The file _hello is a symbolic link.
+16. If only -  changes the owner of the file hello to betty only if it is owned by the user guillaume. The file hello will be in the working directory.
+17. Star Wars - that will play the StarWars IV episode in the terminal.
